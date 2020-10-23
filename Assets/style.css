@@ -1,6 +1,6 @@
 /* This adds background image and enables sticky footer to main page */
 .parent-container {
-background-image: url('/Assets/Images/mitchell-luo-rco_6Ph4wOE-unsplash.jpg');
+background-image: url('https://images.unsplash.com/photo-1602738937384-b4a92fd5cbb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80');
     background-size: cover;
     min-height: calc(100vh - 50px);
 }

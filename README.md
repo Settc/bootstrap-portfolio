@@ -16,5 +16,5 @@ Project uses the following languages/frameworks:
 * Bootstrap 4
 
 #### Contributing
-All coding and design done by me, Thomas Whittle
+All coding and design done by me, Thomas Whittle.
 Background image done by Mitchell Luo https://unsplash.com/@mitchel3uo
