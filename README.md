@@ -6,7 +6,7 @@
 professional accomplishments related to my field using Bootstrap 4,
 HTML5, and CSS. I have taken care to ensure smooth, responsive transitions between varying viewport sizes.
 
-![Contact page screenshot](portfolio-screenshot.png)
+![Contact page screenshot](Assets/Images/portfolio-screenshot.png)
 
 
 ### Technologies
