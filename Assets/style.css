@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+}
+
+.parent-container {
+background-image: url(/Users/immor/bootcamp-stuff/bootcamp-week-2/homework/bootstrap-portfolio/Assets/Images/mitchell-luo-rco_6Ph4wOE-unsplash.jpg);
+    background-size: cover;
+    min-height: calc(100vh - 50px);
+}
+
+.nested-container {
+    
+    background: rgba(0, 0, 0, .5);
+}
+
+hr {
+    background: black;
+}
+
+footer {
+    height: 50px;
+}
