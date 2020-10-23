@@ -1,26 +1,21 @@
-html {
-    height: 100%;
-}
-
-body {
-    min-height: 100%;
-}
-
+/* This adds background image and enables sticky footer to main page */
 .parent-container {
 background-image: url(/Users/immor/bootcamp-stuff/bootcamp-week-2/homework/bootstrap-portfolio/Assets/Images/mitchell-luo-rco_6Ph4wOE-unsplash.jpg);
     background-size: cover;
     min-height: calc(100vh - 50px);
 }
 
+/* This gives main content a 50 percent opacity background */
 .nested-container {
-    
     background: rgba(0, 0, 0, .5);
 }
-
+    
+/* This colors horizontal rules on all pages */
 hr {
     background: black;
 }
 
+/* This colors and sizes the footer */
 footer {
     border-top: 2px solid white;
     height: 50px;
