@@ -22,5 +22,6 @@ hr {
 }
 
 footer {
+    border-top: 2px solid white;
     height: 50px;
 }
