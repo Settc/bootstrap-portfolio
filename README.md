@@ -17,3 +17,4 @@ Project uses the following languages/frameworks:
 
 #### Contributing
 All coding and design done by me, Thomas Whittle
+Background image done by Mitchell Luo https://unsplash.com/@mitchel3uo
